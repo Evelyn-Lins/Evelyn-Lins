@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Evelyn Lins
+# 👾 Evelyn Lins
 
 **`Técnico em Mecatrônica em Formação | Estudante de Programação`**
 
