@@ -94,7 +94,7 @@ align = "left"
 align = "left"
     alt = "JavaScript"
     title = "JavaScript"
-    width = "200px"
+    width = "300px"
     style = "padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-Lins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
 />
