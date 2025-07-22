@@ -92,8 +92,8 @@ align = "left"
 
 <img
 align = "left"
-    alt = "JavaScript"
-    title = "JavaScript"
+    alt = "Linguagens"
+    title = "Linguagens"
     width = "200px"
     style = "padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-Lins&theme=tokyonight&laypout=compact&custom_title=Tecnologias&langs_count=5" 
